@@ -1,3 +1,5 @@
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/masadepan2029/gamemod/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
